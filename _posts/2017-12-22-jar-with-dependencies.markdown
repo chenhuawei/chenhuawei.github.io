@@ -4,8 +4,7 @@ title: "jar with dependencies and include system scope dependency in maven-assem
 date: 2017-12-22 22:41:00 +0800
 categories: maven
 ---
-
-`
+{% highlight xml %}
 	<build>
 		<plugins>
 			<plugin>
@@ -54,6 +53,5 @@ categories: maven
             </plugin>
         </plugins>
     </build>
-`
-
-
+{% endhighlight %}
+	
