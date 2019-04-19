@@ -2,7 +2,10 @@
 layout: post
 title: "MAVEN将本地jar包添加为依赖库并进行打包"
 date: 2017-12-22 22:41:00 +0800
-categories: maven
+categories: java
+tags:
+- java
+- maven
 ---
 + 添加本地jar包为依赖包
 

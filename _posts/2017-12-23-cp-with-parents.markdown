@@ -2,7 +2,11 @@
 layout: post
 title: "copy files with parents"
 date: 2017-12-23 23:37:00 +0800
-categories: maven
+categories: shell
+tag:
+- shell
+- linux
+- mac
 ---
 Mac OS X
 {% highlight shell %}

@@ -3,6 +3,8 @@ layout: post
 title: "git overwrite master branch"
 date: 2018-03-02 23:37:00 +0800
 categories: git
+tags:
+- git
 ---
 
 + 切换到旧的分支
