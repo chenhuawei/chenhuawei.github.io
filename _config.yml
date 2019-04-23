@@ -34,3 +34,6 @@ plugins:
 #favicon:
 #  source: logo35.svg
 #  path: /
+
+#
+# highlightingPermalink http://rouge.jneen.net/

@@ -11,7 +11,7 @@ tags:
 
 # nginx创建一个maven仓库站点
 
-{% highlight %}
+{% highlight text %}
 server {
     listen 80;
     server_name nginx-maven-repository.域名;
