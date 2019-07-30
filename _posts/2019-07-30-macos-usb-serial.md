@@ -34,7 +34,9 @@ tags:
         sudo kextutil -v /System/Library/Extensions/ProlificUsbSerial.kext
     {% endhighlight %}
     
-    犹豫了一下还是选择关闭`System Integrity Protection`，具体操作可以参考[How to turn off System Integrity Protection in macOS](https://www.imore.com/how-turn-system-integrity-protection-macos)
+    犹豫了一下还是选择关闭`System Integrity Protection`
+    
+    具体操作可以参考 [How to turn off System Integrity Protection in macOS](https://www.imore.com/how-turn-system-integrity-protection-macos)
 
 3. 连接串口工具
     - CoolTerm，[下载页面](https://freeware.the-meiers.org/)，不推荐
